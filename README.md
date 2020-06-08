@@ -2,4 +2,6 @@
 
 #### Created for the Thinkful EI Program.
 
-Please reference the startup instructions within your curriculum.
+This is a paired project with Karsten Taylor and Rebecca Hudson.
+
+Repo: https://github.com/thinkful-ei-panda/webpack-day-karsten-rebecca.git
